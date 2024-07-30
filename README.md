@@ -1,8 +1,13 @@
 # SQL Notes
 
-USE database_name;
+## Select Clause
 
-SELECT column_name
-FROM table_name
-WHERE query
-ORDER BY column_name
+**USE** database_name;
+
+**SELECT** column_name
+
+**FROM** table_name
+
+**WHERE** query
+
+**ORDER BY** column_name
