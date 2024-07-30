@@ -3,7 +3,9 @@
 ## Select Clause
 
 **USE** database_name;
+
 <br/>
+
 **SELECT** column_name
 
 **FROM** table_name
