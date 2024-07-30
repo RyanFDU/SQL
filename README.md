@@ -4,6 +4,7 @@
 
 **USE** database_name;
 
+
 **SELECT** column_name
 
 **FROM** table_name
